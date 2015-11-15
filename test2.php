@@ -1,5 +1,5 @@
 <?php
-include_once("test1.php");
+include_once("test1/test1.php");
 
 class test2 {
   function test() {
